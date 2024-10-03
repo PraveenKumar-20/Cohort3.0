@@ -1,0 +1,25 @@
+* {
+  font-family: BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu,
+    Cantarell, "Helvetica Neue", sans-serif;
+}
+
+body {
+  background-color: black;
+}
+
+.top-link {
+  font-size: 16px;
+  font-weight: 600;
+  color: #9ba3b4;
+  cursor: pointer;
+  padding-left: 10px;
+}
+
+.top-link:hover {
+  color: white;
+}
+
+p {
+  width: 720px;
+  padding-left: 350px;
+}
