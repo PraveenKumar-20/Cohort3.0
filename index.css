@@ -23,3 +23,54 @@ p {
   width: 720px;
   padding-left: 350px;
 }
+
+.second-part {
+  color: white;
+  width: 80%;
+  padding: 10px;
+  margin-right: 50px;
+}
+
+.image {
+  width: 100%;
+}
+
+a {
+  font-size: 16px;
+  color: #4daafc;
+}
+
+.second {
+  color: #9ba3b4;
+  line-height: 160%;
+  font-weight: 500;
+  display: block;
+  margin: 0 0 10px;
+}
+
+.link {
+  font-size: 16px;
+  color: #4daafc;
+  display: block;
+  font-weight: 500;
+}
+
+.second1 {
+  color: #9ba3b4;
+  line-height: 160%;
+  font-weight: 500;
+  margin: 0 0 10px;
+}
+
+.link1 {
+  font-size: 16px;
+  color: #4daafc;
+  font-weight: 500;
+}
+.top {
+  margin-bottom: 40px;
+}
+
+.first {
+  margin-bottom: 20px;
+}
